@@ -1,0 +1,32 @@
+signup lucious
+signup albus
+signup tom
+login tom
+post tom IAmGoingToBeTheDarkestDarkWizardOfAllTime
+post tom IAmLordVoldemortBTW
+logout tom
+login lucious
+showNewsFeed lucious
+upvote lucious P1
+follow lucious tom
+reply lucious P1 IAmWithYouDarkLord!
+logout lucious
+login albus
+showNewsFeed albus
+post alblus HappinessCanBeFound,EvenInTheDarkestOfTimes,IfOneOnlyRemembersToTurnOnTheLight
+post albus HappinessCanBeFound,EvenInTheDarkestOfTimes,IfOneOnlyRemembersToTurnOnTheLight
+follow albus tom
+downvote albus P1
+downvote albus P2
+reply ablus P2 LOL!
+shownewsfeed albus
+login albus
+login tom
+follow tom albus
+upvote tom P4
+upvote tom P3
+shownewsfeed albus
+shownewsfeed locius
+shownewsfeed tom
+logout albus
+logout albus
